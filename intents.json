@@ -2,8 +2,8 @@
 "intents": [
     {
     "tag": "greetings",
-    "patterns":  ["Olá", "Oie", "Eaí", "Saudações", "Oi"],
-    "responses": ["Olá!", "Oie","Eaí", "Saudações", "Oi", "Olá, o que posso fazer por você?"]
+    "patterns":  ["Hello", "Hi", "What's up", "How are you doing", "Good morning"],
+    "responses": ["Hi", "Hello","What can I do for you?", "Grettings", "What's up", "It's nice to see you"]
     }
 ]
 }
